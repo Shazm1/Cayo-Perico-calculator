@@ -1,8 +1,8 @@
 # Cayo-Perico-calculator
 <a href="https://imgur.com/qooY89f"><img src="https://i.imgur.com/qooY89f.jpg" alt="421730" border="0"></a>
-### Version 0.04
+### Version 1.0.0
 <h1>INFO</h1>
-That's a Cayo Perico calculator. At v0.04 counts only cash, money and paintings;<br>
+That's a Cayo Perico income calculator.<br>
 It's really simple looking, because i made it for own use;<br>
 For any <b>BUGS</b> asks or advices, please, <b>contact me</b> by links below.<br>
 <br>
